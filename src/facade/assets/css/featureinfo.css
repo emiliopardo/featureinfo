@@ -1,0 +1,17 @@
+#m-getfeatureinfo-button{
+margin-top: 10px;
+margin-right: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+border-radius: 20px;
+width: 40px;
+height: 40px;
+visibility: visible;
+border: 0px;
+box-shadow: none;
+font-size: 19px;
+cursor: pointer;
+color: #FFF;
+background-color: #00897b;
+order: -100;
+}
